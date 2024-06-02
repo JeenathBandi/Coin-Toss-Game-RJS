@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to right, #f9d423, #e2a139);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.toss-container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: 'Roboto';
+  color: #a35200;
+  font-weight: 500;
+}
+.description {
+  font-family: 'Roboto';
+  color: #334155;
+}
+.img {
+  height: 30vh;
+  width: 15vw;
+}
+.btn {
+  background-color: #f9d423;
+  color: #a35200;
+  font-family: 'Roboto';
+  border-radius: 8px;
+  border-color: #f9d423;
+  border-style: none;
+  padding: 10px;
+  margin: 20px;
+}
+.results-container {
+  display: flex;
+}
+.description2 {
+  font-family: 'Roboto';
+  color: #334155;
+  margin: 20px;
+}
